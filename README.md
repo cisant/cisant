@@ -12,7 +12,6 @@
 
 ### 🚀 Sobre mim
 
-- # 🌴 Baseado em **Salvador/BA**, trabalhando com times e produtos pra fora.
 - 🌴 Resido em **Salvador/BA**, trabalhando com times e produtos pra fora.
 - 🧩 Foco em **full-stack**: arquitetura back-end robusta e front-end bem-acabado.
 - 🏗️ Toco do **banco ao deploy** — microsserviços, monólitos e monorepos.
