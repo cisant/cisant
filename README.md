@@ -12,11 +12,8 @@
 
 ### 🚀 Sobre mim
 
-<<<<<<< HEAD
-
 - # 🌴 Baseado em **Salvador/BA**, trabalhando com times e produtos pra fora.
 - 🌴 Resido em **Salvador/BA**, trabalhando com times e produtos pra fora.
-  > > > > > > > aace13e (Add GitHub profile README)
 - 🧩 Foco em **full-stack**: arquitetura back-end robusta e front-end bem-acabado.
 - 🏗️ Toco do **banco ao deploy** — microsserviços, monólitos e monorepos.
 - ☁️ Confortável em **DevOps**: containers, cloud e pipelines de entrega contínua.
