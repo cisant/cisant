@@ -1,8 +1,8 @@
 # Ítalo Santos
 
-**Senior Full-Stack Developer** · Salvador/BA 🌴
+**Senior Full-Stack Developer** · Brazil 🇧🇷
 
-> Construindo sistemas que escalam, do banco ao pixel.
+> Building systems that scale, from database to pixel.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-italocsantos-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/italocsantos)
 [![Email](https://img.shields.io/badge/Email-itaconsantos@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:itaconsantos@gmail.com)
@@ -11,14 +11,14 @@
 
 ---
 
-## O que eu faço
+## What I do
 
-Sou full-stack com pé firme nos dois lados: **back-end robusto** e **front-end bem-acabado**. Toco o ciclo completo — do modelo de dados ao deploy — e me sinto em casa tanto subindo um microsserviço quanto refinando um detalhe de UI.
+Full-stack developer comfortable on both sides of the stack: **solid back-ends** and **polished front-ends**. I own the full cycle — from the data model to deploy — and feel at home spinning up a microservice or refining a UI detail.
 
-- 🏗️ Arquiteturas variadas: **microsserviços, monólitos e monorepos** — escolho a ferramenta pelo problema, não pela moda.
-- ☁️ **DevOps** no fluxo do dia a dia: containers, cloud e entrega contínua.
-- 🎰 Criador do **[Lotometria](https://www.lotometria.com.br)** — produto próprio rodando em produção.
-- 🌍 Trabalhando com times e produtos **pra fora**, direto de Salvador.
+- 🏗️ Across architectures: **microservices, monoliths and monorepos** — I pick the tool for the problem, not for the hype.
+- ☁️ **DevOps** as part of the daily flow: containers, cloud and continuous delivery.
+- 🎰 Creator of **[Lotometria](https://www.lotometria.com.br)** — my own product running in production.
+- 🌍 Working with international teams and products, straight from Brazil.
 
 ---
 
@@ -46,19 +46,25 @@ Sou full-stack com pé firme nos dois lados: **back-end robusto** e **front-end 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 
-**Banco de dados**
+**Databases**
 <br/>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Arquitetura** · Microsserviços · Monólito · Monorepo
+**Architecture** · Microservices · Monolith · Monorepo
 
 ---
 
-## Atividade
+## Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=cisant&theme=dark&hide_border=true" alt="GitHub streak" />
+</p>
+
+---
+
+<p align="center">
+  <strong>Let's build something that lasts — <a href="mailto:itaconsantos@gmail.com">reach out</a>.</strong>
 </p>
