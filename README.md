@@ -12,7 +12,11 @@
 
 ### 🚀 Sobre mim
 
-- 🌴 Baseado em **Salvador/BA**, trabalhando com times e produtos pra fora.
+<<<<<<< HEAD
+
+- # 🌴 Baseado em **Salvador/BA**, trabalhando com times e produtos pra fora.
+- 🌴 Resido em **Salvador/BA**, trabalhando com times e produtos pra fora.
+  > > > > > > > aace13e (Add GitHub profile README)
 - 🧩 Foco em **full-stack**: arquitetura back-end robusta e front-end bem-acabado.
 - 🏗️ Toco do **banco ao deploy** — microsserviços, monólitos e monorepos.
 - ☁️ Confortável em **DevOps**: containers, cloud e pipelines de entrega contínua.
@@ -35,13 +39,17 @@ Arquitetura   Microsserviços · Monólito · Monorepo
 
 ### 📊 Estatísticas
 
-<p align="center">
+<!-- <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cisant&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="github stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cisant&layout=compact&theme=dark&langs_count=8" alt="top languages" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cisant&theme=dark" alt="github streak" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=cisant&theme=dark" alt="github streak" />
 </p>
 
 ---
