@@ -17,7 +17,6 @@ Full-stack developer comfortable on both sides of the stack: **solid back-ends**
 
 - 🏗️ Across architectures: **microservices, monoliths and monorepos** — I pick the tool for the problem, not for the hype.
 - ☁️ **DevOps** as part of the daily flow: containers, cloud and continuous delivery.
-- 🎰 Creator of **[Lotometria](https://www.lotometria.com.br)** — my own product running in production.
 - 🌍 Working with international teams and products, straight from Brazil.
 
 ---
