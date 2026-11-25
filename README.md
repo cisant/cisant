@@ -1,7 +1,7 @@
 <a href="https://italosantos.dev/en">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/card-dark.svg">
-    <img src="assets/card-light.svg" alt="Ítalo Santos, fullstack developer. italosantos.dev" width="100%">
+    <img src="assets/card-light.svg" alt="Ítalo Santos, fullstack developer. italosantos.dev" width="640">
   </picture>
 </a>
 
